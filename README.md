@@ -6,7 +6,7 @@ I'm Nathan. A web developer with a passion for front-end. 👨‍🎨
 🎓 At Le Wagon I built full-stack Rails apps, most notably [this one](https://github.com/nathansoussana/local-sports-club) which I led in a team of 5<br>
 👨‍💻 Languages, frameworks & libraries I use: HTML, CSS, JS, Ruby, Rails, Bootstrap, SQL
 
-📚 I'm currently studying and building some small projects to refine my JS skills such as [that one](https://github.com/nathansoussana/rock-paper-scissors)<br>
+📚 I'm currently studying and building some small projects to refine my JS skills such as [this game](https://github.com/nathansoussana/rock-paper-scissors)<br>
 📚 On my learning list: React, Typescript, and Tailwind CSS
 
 🎯 I'm currently looking for a web development job in Zurich 🇨🇭<br>
