@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nathan. A web developer with a passion for front-end 👨‍🎨
+I'm Nathan. A web developer with a passion for front-end! 👨‍🎨
 
 🎓 I graduated from Le Wagon's Web Development bootcamp in July 2023<br>
 🎓 At Le Wagon I built full-stack Rails apps, most notably [this one](https://github.com/nathansoussana/local-sports-club) which I led in a team of 5<br>
