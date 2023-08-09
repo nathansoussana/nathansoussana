@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Nathan. A web developer with a passion for front-end! 👨‍🎨
 
