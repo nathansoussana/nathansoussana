@@ -7,7 +7,7 @@ I'm Nathan. A web developer with a passion for front-end. 👨‍🎨
 👨‍💻 Languages, frameworks & libraries I use: HTML, CSS, JS, Ruby, Rails, Bootstrap, SQL
 
 📚 I'm currently studying and building some small projects to refine my JS skills such as [that one](https://github.com/nathansoussana/rock-paper-scissors)<br>
-📚 Next on my learning list: React, Typescript, and Tailwind CSS
+📚 On my learning list: React, Typescript, and Tailwind CSS
 
 🎯 I'm currently looking for a web development job in Zurich 🇨🇭<br>
 🔗 Reach me out on [LinkedIn](https://www.linkedin.com/in/nathansoussana/) or send me an [email](mailto:nathan.soussana@gmail.com)!
