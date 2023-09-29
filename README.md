@@ -8,7 +8,7 @@ I'm Nathan. A front-end developer! 👨‍🎨
 👨‍💻 Languages, frameworks & libraries I've also worked with: Ruby, Rails, Bootstrap, SQL
 
 📚 Currently studying and building further projects with JS & React such as [this JS game](https://github.com/nathansoussana/rock-paper-scissors)<br>
-📚 Learning next: TypeScript, Next.JS
+📚 Learning next: TypeScript, Next.js
 
 🎯 I'm currently looking for a web development job in Zurich 🇨🇭<br>
 🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/nathansoussana/) or send me an [email](mailto:nathan.soussana@gmail.com)! 📩
