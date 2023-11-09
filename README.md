@@ -7,8 +7,8 @@ I'm Nathan. A front-end developer! 👨‍🎨
 👨‍💻 Languages, frameworks & libraries I actively work with: HTML, CSS, SASS, JS, React<br>
 👨‍💻 Languages, frameworks & libraries I've also worked with: Ruby, Rails, Bootstrap, SQL
 
-📚 Currently studying and building further projects with React & Vanilla JS<br>
-📚 Learning next: TypeScript, Next.js
+📚 Currently studying and building further projects with React & Next.js<br>
+📚 Learning next: TypeScript
 
 🎯 I'm currently looking for a web development job in Zurich 🇨🇭<br>
 🔗 Reach out on [LinkedIn](https://www.linkedin.com/in/nathansoussana/) or send me an [email](mailto:nathan.soussana@gmail.com)! 📩
