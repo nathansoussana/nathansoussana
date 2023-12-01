@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Nathan. A front-end developer! 👨‍🎨
+I'm Nathan. A Zürich-based front-end developer passionate about building clean and beautiful web experiences.
 
 🎓 I graduated from Le Wagon's Web Development bootcamp in July 2023<br>
 🎓 At Le Wagon I built full-stack Rails apps, most notably [this one](https://github.com/nathansoussana/local-sports-club) which I led in a team of 5<br>
